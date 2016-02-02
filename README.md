@@ -1,2 +1,2 @@
-# perceptron
-Various Perceptron Code
+# Perceptron
+Various Perceptron Related Code
